@@ -26,7 +26,7 @@ In this repository, you'll find our implementation of MadLibs in C/C++. We've ai
 - Stephanie Sithu
 
 ### Credits:
-This project was completed as part of my Intro to C/C++ course, with contributions from the talented individuals listed above. Special thanks to our instructor [instructor's name] for the guidance and support throughout the project.
+This project was completed as part of my Intro to C/C++ course, with contributions from the talented individuals listed above. Special thanks to our instructor Dr. Pamela Thomas for the guidance and support throughout the project.
 
 ### Feedback:
 We'd love to hear your feedback! Whether you have suggestions for improvement or simply want to share your MadLibs experience, feel free to open an issue or reach out to us.
